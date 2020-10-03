@@ -1,4 +1,4 @@
-<?include 'assets/head.php';?>
+<?include 'assets/header.php';?>
 
     <section id="slider">
         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
