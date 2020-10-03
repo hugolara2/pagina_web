@@ -1,17 +1,9 @@
-
-:root {
-    --dark:#1a1a1a;
-    --white: #ffffff;
-    --light-grey: #efefef;
-    --gold: #ecd5a7;
-}s
-
 body {
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 1rem;
     font-weight: 300;
     letter-spacing: .05rem;
-    background-color: var(--dark) !important;
+    background-color: white;
 }
 
 h1, h2, h3, h4, h5, h6, .navbar-brand {
