@@ -203,6 +203,5 @@
             </div>
         </div>
     </section>
-</body>
 
-</html>
+<? include 'assets/footer.php';?>
