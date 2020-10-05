@@ -1,6 +1,6 @@
 <?include 'assets/header.php';?>
 
-    <section id="slider">
+    <!--section id="slider">
         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
             <ol class="carousel-indicators">
                 <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -39,9 +39,7 @@
                 <span class="sr-only">Siguiente</span>
             </a>
         </div>
-    </section>
-
-
+    </!--section-->
     <section>
         <div class="container">
             <div class="row">
