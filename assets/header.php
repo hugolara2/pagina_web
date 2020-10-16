@@ -1,24 +1,5 @@
-<!Doctype html>
-<html lang="en">
 
-<head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="author" content="Joaquin Mendoza ">
-
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <link rel="icon" href="images/dieta.png">
-
-    <!-- Custom Styles -->
-    <link rel="stylesheet" href="assets/css/style.css">
-    <title>Pagina web</title>
-</head>
-
-<body>
-    <h1>Pagina web</h1>
-
+<header>
     <nav class="navbar navbar-expand-lg fixed-top">
         <div class="container">
             <a class="navbar-brand" href="index.php">Nutriologa Fulanita</a>
@@ -41,3 +22,4 @@
             </div>
         </div>
     </nav>
+</header>

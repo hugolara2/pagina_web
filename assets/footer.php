@@ -1,6 +1,3 @@
 <footer>
-        Todos los derechos reservados &copy; 2020
-    </footer>
-</body>
-
-</html>
+        <p>Todos los derechos reservados &copy; 2020</p>
+</footer>

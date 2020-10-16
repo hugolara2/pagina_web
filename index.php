@@ -1,46 +1,23 @@
-<?include 'assets/header.php';?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- meta tags -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Joaquin Mendoza ">
 
-    <!--section id="slider">
-        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-            <ol class="carousel-indicators">
-                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-            </ol>
-            <div class="carousel-inner">
-                <div class="carousel-item active">
-                    <img class="d-block w-100" src="assets/images/MON1.png" alt="First slide">
-                    <div class="carousel-caption">
-                        <h3 class="d-block">Imagen de 2016 en la grabacion del video de "Amor completo</h3>
-                        <p class="lead d-none d-sm-block">AlbuM "Mon laferte V1</p>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <img class="d-block w-100" src="assets/images/mon2.jpg" alt="Second slide">
-                    <div class="carousel-caption">
-                        <h3 class="d-block">Imagen en vivo del concierto en chile</h3>
-                        <p class="lead d-none d-sm-block">Viña del mar</p>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <img class="d-block w-100" src="assets/images/mon3.jpg" alt="Second slide">
-                    <div class="carousel-caption">
-                        <h3 class="d-block">Sesion de fotos</h3>
-                        <p class="lead d-none d-sm-block">Mexico.</p>
-                    </div>
-                </div>
-            </div>
-            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="sr-only">Previa</span>
-            </a>
-            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="sr-only">Siguiente</span>
-            </a>
-        </div>
-    </!--section-->
-    <section>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="icon" href="images/dieta.png">
+
+    <!-- Custom Styles -->
+    <link rel="stylesheet" href="assets/css/style.css">
+    <title>Pagina web</title>
+
+</head>
+<body>
+<?php include_once 'assets\header.php'; ?>
+<section>
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
@@ -201,5 +178,6 @@
             </div>
         </div>
     </section>
-
-<? include 'assets/footer.php';?>
+    <?php include_once 'assets\footer.php'; ?>
+</body>
+</html>
