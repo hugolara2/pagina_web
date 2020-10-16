@@ -1,30 +1,11 @@
-<!Doctype html>
-<html lang="en">
 
-<head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="author" content="Joaquin Mendoza ">
-
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <link rel="icon" href="images/dieta.png">
-
-    <!-- Custom Styles -->
-    <link rel="stylesheet" href="assets/css/style.css">
-    <title>Pagina web</title>
-</head>
-
-<body>
-    <h1>Pagina web</h1>
-
-    <nav class="navbar navbar-expand-lg fixed-top">
+<header>
+    <nav class="navbar navbar-expand-lg fixed-top navbar-light bg-light">
         <div class="container">
-            <a class="navbar-brand" href="index.php">Nutriologa Fulanita</a>
+            <a class="navbar-brand" href="index.php"< href="#" class="btn btn-primary"><img src="assets\images\diet.ico" alt="" width="25" height="25"> Nutriologa Fulanita</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
                 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                <img src="assets/images/menu.svg" class="img-fluid">
+                <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ml-auto">
@@ -41,3 +22,4 @@
             </div>
         </div>
     </nav>
+</header>
