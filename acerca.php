@@ -23,7 +23,7 @@
     <!-- main -->
     <main>
         <section>
-            <div class="card mb-3" style="min-width: 540px; min-height: 700px">
+            <div class="card mb-3" style="min-width: 540px; min-height: 700px;">
                 <div class="row no-gutters">
                     <div class="col-md-4">
                     <img src="assets\images\perfil_1.jpg" class="card-img" alt="...">

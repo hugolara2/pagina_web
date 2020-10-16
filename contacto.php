@@ -23,7 +23,7 @@
     <!-- main -->
     <main>
         <section>
-        <div class="card mb-3" style="min-width: 540px; min-height: 300px">
+        <div class="card mb-3" style="min-width: 540px; min-height: 300px;">
         <div class="col-md-10">
             <form>
                 <div class="form-group">
