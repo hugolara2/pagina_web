@@ -1,4 +1,3 @@
-<?include 'assets/header.php';?>
+<?php include_once 'assets\header.php'; ?>
 
-
-<? include 'assets/footer.php';?>
+<?php include_once 'assets\footer.php'; ?>
