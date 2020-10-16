@@ -17,6 +17,17 @@
 </head>
 <body>
 <?php include_once 'assets\header.php'; ?>
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+        <img src="assets\images\carousel_1.jpg" class="d-block w-100" alt="...">
+        <div class="carousel-caption d-none d-md-block">
+        <h5>Bienvenido a tu nueva vida <span>comiendo mejor</span></h5>
+        <p>Baja de peso / Diabetes / Colitis / Colesterol / Aumento de masa muscular</p>
+      </div>
+    </div>
+  </div>
+</div>
 <section>
         <div class="container">
             <div class="row">
