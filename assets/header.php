@@ -2,7 +2,7 @@
 <header>
     <nav class="navbar navbar-expand-lg fixed-top navbar-light bg-light">
         <div class="container">
-            <a class="navbar-brand" href="index.php">Nutriologa Fulanita</a>
+            <a class="navbar-brand" href="index.php"< href="#" class="btn btn-primary"><img src="assets\images\diet.ico" alt="" width="25" height="25"> Nutriologa Fulanita</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
                 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>

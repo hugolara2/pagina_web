@@ -12,6 +12,7 @@
 
     <!-- Custom Styles -->
     <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="shortcut icon" href="assets\images\diet.ico" type="image/x-icon">
     <title>Acerca de mí</title>
 </head>
 <body>
@@ -44,7 +45,7 @@
         </section>
     </main>
     <!-- /.. -->
-    
+
     <!-- footer -->
     <?php include_once 'assets\footer.php'; ?>
     <!-- /.. -->

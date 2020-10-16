@@ -12,6 +12,7 @@
 
     <!-- Custom Styles -->
     <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="shortcut icon" href="assets\images\diet.ico" type="image/x-icon">
     <title>Pagina web</title>
 
 </head>
