@@ -13,11 +13,11 @@
     <!-- Custom Styles -->
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="shortcut icon" href="assets\images\diet.ico" type="image/x-icon">
-    <title>Acerca de mí</title>
+    <title>NutriWeb</title>
 </head>
 <body>
     <!-- header -->
-    <?php include_once 'assets\header.php'; ?>
+    <?php include_once 'assets/header.php'; ?>
     <!-- /.. -->
 
     <!-- main -->
@@ -26,7 +26,7 @@
             <div class="card mb-3" style="min-width: 540px; min-height: 700px;">
                 <div class="row no-gutters">
                     <div class="col-md-4">
-                    <img src="assets\images\perfil_1.jpg" class="card-img" alt="...">
+                    <img src="assets\images\perfil_1.jpeg" class="card-img" alt="...">
                     </div>
                     <div class="col-md-8">
                     <div class="card-body">
@@ -47,7 +47,7 @@
     <!-- /.. -->
 
     <!-- footer -->
-    <?php include_once 'assets\footer.php'; ?>
+    <?php include_once 'assets/footer.php'; ?>
     <!-- /.. -->
 </body>
 </html>

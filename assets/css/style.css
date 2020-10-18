@@ -11,6 +11,9 @@ h1, h2, h3, h4, h5, h6, .navbar-brand {
     font-weight: 500 !important;
     line-height: 1.5 !important;
 }
+.text-light{
+    color: black;
+}
 
 a {
     color: var(--light);
