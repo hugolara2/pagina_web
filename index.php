@@ -13,13 +13,13 @@
     <!-- Custom Styles -->
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="shortcut icon" href="assets\images\diet.ico" type="image/x-icon">
-    <title>Pagina web</title>
+    <title>NutriWeb</title>
 
 </head>
 <body>
 
 <!-- header -->
-<?php include_once 'assets\header.php'; ?>
+<?  include_once 'assets/header.php'; ?>
 <!-- /.. -->
 
 <!-- main -->
@@ -104,7 +104,7 @@
     <!-- /.. -->
 
     <!-- footer -->
-    <?php include_once 'assets\footer.php'; ?>
+    <?php include_once 'assets/footer.php'; ?>
     <!-- /.. -->
 </body>
 </html>
